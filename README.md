@@ -1,7 +1,7 @@
-# 群明湖
+# 小组任务
 
 #### 介绍
-小组任务，一个由[不会红石的sdjjd](https://github.com/buhuihongshide-sdjjd)写的网站
+小组任务，一个由[不会红石的sdjjd](https://github.com/buhuihongshide-sdjjd)写的网站，在buhuihongshide-sdjjd.github.io项目中web分支
 
 #### 软件语言
 
@@ -29,5 +29,4 @@ HTML（91.4%）+CSS(8.6%）
 #### 感谢名单
 
 1.    自己 
-2.    zhoujingmu
-3.    小组成员
+2.    小组成员
