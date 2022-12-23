@@ -1,0 +1,33 @@
+*{
+    /* 初始化 */
+    margin: 0;
+    padding: 0;
+}
+
+/*html{
+filter: progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
+-webkit-filter: grayscale(100%);
+}*/
+
+body{
+    /* 100%的窗口高度 */
+    height: 100vh;
+    /* 弹性布局 水平+垂直居中 */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* 渐变背景 */
+    background: linear-gradient(200deg,#ffecd2,#99CC99);
+}
+
+.container{
+    /* 定义3D元素距视图的距离 */
+    perspective: 320px;
+}
+
+.btn{
+    display: block;
+    margin: 10px 0;
+    width: 120px;
+    height: 40px;
+}
