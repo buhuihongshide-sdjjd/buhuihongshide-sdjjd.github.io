@@ -1,7 +1,7 @@
 # 群明湖
 
 #### 介绍
-小组任务，一个由[张博轩](https://github.com/buhuihongshide-sdjjd)写的网站
+小组任务，一个由[不会红石的sdjjd](https://github.com/buhuihongshide-sdjjd)写的网站
 
 #### 软件语言
 
