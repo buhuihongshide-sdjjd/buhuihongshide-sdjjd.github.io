@@ -26,6 +26,14 @@ HTML（91.4%）+CSS(8.6%）
 2.  打开index.html
 3.  贴士：如果是windows系统，可以打开git文件夹里的git-bash.exe或git-cmd.exe
 
+#### 系统（理论所有都可以）
+
+- [x] Android
+- [x] IOS
+- [x] iPadOS
+- [x] Winsows
+- [x] Linux 
+
 #### 感谢名单
 
 1.    [自己](https://github.com/buhuihongshide-sdjjd) 
